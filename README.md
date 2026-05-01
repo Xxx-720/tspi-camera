@@ -3,6 +3,12 @@
 
 ---
 
+3.1寸屏幕移植：https://wangxingqiao.feishu.cn/wiki/U0ZLwRnn1iUJ3fkcYzZc6QA4n7f?from=from_copylink
+OV8858摄像头移植：https://wangxingqiao.feishu.cn/wiki/SbZ8wBroai4qTbkefRzcAGVrnZt?from=from_copylink
+
+
+---
+
 ## 📁 项目结构
 ```text
 .
